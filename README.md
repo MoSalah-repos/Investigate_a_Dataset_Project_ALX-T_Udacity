@@ -51,3 +51,11 @@ In this project, I will analyze the dataset of [**No-show appointments**], and t
 | Handcap | To indentify Patients with Disabilities - The correct spelling is **Handicap** |
 | SMS_received | ‘0’ if the patient doesn't receive a message and ‘1’ if he received a message |
 | No-show | ‘No’ if the patient showed up to their appointment, and ‘Yes’ if they did not show up | 
+
+
+
+![2022-08-10_143845](https://user-images.githubusercontent.com/24820631/183824145-d3531d43-b96e-4061-b15a-6c88b3ee2493.png)
+
+![2022-08-10_140904](https://user-images.githubusercontent.com/24820631/183824175-54e7d664-2869-42ba-a7ce-d3730aaa1958.png)
+
+![2022-08-10_141506](https://user-images.githubusercontent.com/24820631/183824198-c4b992e8-5971-4ba6-bd4b-e2d17369dfbc.png)
