@@ -12,7 +12,7 @@ In this project, I will analyze the dataset of [**No-show appointments**], and t
 > Such dataset is part of the ALX-T Data Analyst Nano Degree (DAND) track from Udacity online learning platform [URL](https://www.alxafrica.com/programme_post/data-analyst/). The reader can find the source of such dataset on Kaggle website from this [URL](https://www.kaggle.com/datasets/joniarroba/noshowappointments).
 
 > The project was carried out through the Project Workspace of Udacity online learning platform.
-<br> The project was carried by the future data analyst: 
+<br> The project was carried out by the future data analyst: 
 <br><code>    </code> **Mohamed Salah**, 
 <br><code>      </code> Post-doc. Research Fellow, Kyushu University, JAPAN
 <br><code>      </code> Assis. Prof., Minia University, EGYPT
